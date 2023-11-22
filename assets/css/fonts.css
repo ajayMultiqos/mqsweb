@@ -1,0 +1,183 @@
+
+@font-face {
+    font-family: 'Public Sans Light';
+    src: url('../fonts/PublicSans-Light.woff2') format('woff2'), url('../fonts/PublicSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans Bold';
+    src: url('../fonts/PublicSans-Bold.woff2') format('woff2'), url('../fonts/PublicSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans Regular';
+    src: url('../fonts/PublicSans-Regular.woff2') format('woff2'), url('../fonts/PublicSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans ExtraBold';
+    src: url('../fonts/PublicSans-ExtraBold.woff2') format('woff2'), url('../fonts/PublicSans-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans SemiBold';
+    src: url('../fonts/PublicSans-SemiBold.woff2') format('woff2'), url('../fonts/PublicSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans Medium';
+    src: url('../fonts/PublicSans-Medium.woff2') format('woff2'), url('../fonts/PublicSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans ExtraLight';
+    src: url('../fonts/PublicSans-ExtraLight.woff2') format('woff2'), url('../fonts/PublicSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans Thin';
+    src: url('../fonts/PublicSans-Thin.woff2') format('woff2'), url('../fonts/PublicSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans Black';
+    src: url('../fonts/PublicSans-Black.woff2') format('woff2'), url('../fonts/PublicSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brittany Signature';
+    src: url('../fonts/BrittanySignatureRegular.woff2') format('woff2'), url('../fonts/BrittanySignatureRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?jv21xa');
+    src: url('../fonts/icomoon.eot?jv21xa');
+    src: url('../fonts/icomoon.eot?jv21xa#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?jv21xa') format('truetype'), url('../fonts/icomoon.woff?jv21xa') format('woff'), url('../fonts/icomoon.svg?jv21xa#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+    content: "\e90c";
+}
+
+.icon-dribbble:before {
+    content: "\e910";
+}
+
+.icon-twitter:before {
+    content: "\e911";
+}
+
+.icon-email:before {
+    content: "\e912";
+}
+
+.icon-mobile:before {
+    content: "\e90e";
+}
+
+.icon-pin:before {
+    content: "\e90f";
+}
+
+.icon-behance:before {
+    content: "\e902";
+}
+
+.icon-dribble:before {
+    content: "\e900";
+}
+
+.icon-facebook:before {
+    content: "\e901";
+}
+
+.icon-instagram:before {
+    content: "\e903";
+}
+
+.icon-ios:before {
+    content: "\e904";
+}
+
+.icon-linkedin:before {
+    content: "\e905";
+}
+
+.icon-next-arrow:before {
+    content: "\e906";
+}
+
+.icon-phone:before {
+    content: "\e907";
+}
+
+.icon-pinterest:before {
+    content: "\e908";
+}
+
+.icon-right-arrow:before {
+    content: "\e909";
+}
+
+.icon-right-arrow-sm:before {
+    content: "\e90a";
+}
+
+.icon-skype:before {
+    content: "\e90b";
+}
+
+.icon-whatsapp:before {
+    content: "\e90d";
+}

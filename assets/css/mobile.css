@@ -1,0 +1,2075 @@
+
+@media screen and (max-width:1600px) {
+    .container {
+        max-width: 1320px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 65px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 52px;
+    }
+
+    p,
+    .p {
+        font-size: 22px;
+    }
+
+    .navigationWrap .navigationlist {
+        column-gap: 30px;
+    }
+
+    .heroBannersection {
+        padding: 60px 0 120px;
+    }
+
+    .whoWeareWrap .whoWeareCols .content p:first-child::before {
+        width: 80px;
+        height: 65px;
+        left: -60px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 150px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 70px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4 {
+        font-size: 42px;
+    }
+
+    .OfferserviceWrap:hover .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox:hover .industryExpleft .industryExpleftConten h4 {
+        font-size: 46px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content p,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten p {
+        font-size: 22px;
+    }
+
+    .OfferserviceWrap:hover {
+        padding: 70px 30px;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo {
+        padding: 0 27px;
+    }
+
+    .mainTitlebtnwrap {
+        margin-bottom: 50px;
+    }
+
+    .industryExpcenter .tilt img {
+        width: 500px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::before,
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::after {
+        width: 170px;
+        height: 170px;
+    }
+
+    .growStartWrap h2 {
+        font-size: 96px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 180px;
+        gap: 40px;
+    }
+
+    .ptb {
+        padding: 60px 0;
+    }
+
+    .testimonialSldr .clientReview {
+        max-width: calc(100% - 353px);
+    }
+
+    .testimonialSldr .client-image {
+        max-width: 330px;
+    }
+
+    .testimonialSldr {
+        padding: 80px 80px 0 80px;
+    }
+
+    .testimonialSldr .clientReview p {
+        font-size: 22px;
+    }
+
+    .testimonialSldr .clientReview .clientName {
+        margin-top: 40px;
+    }
+
+    .testimonialSldr .clientReview .clientName h4 {
+        font-size: 28px;
+    }
+
+    .smborderTitle {
+        font-size: 22px;
+    }
+
+    .counterCard h3 {
+        font-size: 68px;
+    }
+
+    .clientsBox img {
+        width: 150px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 220px;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 430px;
+    }
+
+    .whoWearesection .whoWeareWrap h2 {
+        margin-bottom: 65px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox h4 {
+        font-size: 42px;
+    }
+
+    .contactUsLeft .titleWrap h3 {
+        font-size: 52px;
+    }
+
+    .contactUsLeft h4,
+    .contactUsLeft .contatcUslink ul li a {
+        font-size: 22px;
+    }
+
+    .contactUsLeft .contatcUslink ul li a i {
+        font-size: 120%;
+    }
+
+    .contactUswrap .contactUsLeftWrap {
+        max-width: 520px;
+    }
+
+    .contactUswrap .contactUsRightWrap {
+        max-width: calc(100% - 560px);
+    }
+}
+
+@media screen and (max-width:1399px) {
+    .container {
+        max-width: 1140px;
+    }
+
+    .header .hcontainer {
+        padding: 0 20px;
+    }
+
+    .navigationWrap .navigationlist {
+        column-gap: 26px;
+    }
+
+    .navigationWrap .navigationlist>li {
+        font-size: 18px;
+    }
+
+    .navigationWrap .navigationlist>li .contactMenu {
+        font-size: 16px;
+    }
+
+    .navigationWrap .navigationlist>li .contactMenu i {
+        font-size: 20px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 136px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 66px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 60px;
+    }
+
+    .smborderTitle {
+        margin-bottom: 8px;
+    }
+
+    .counterCard h3 {
+        font-size: 64px;
+    }
+
+    .whoWearesection .whoWeareWrap .whoWeareRow .whoWeareCols .counterBoxWrap .counterBoxRow h3 {
+        line-height: 1.4;
+    }
+
+    h3,
+    .h3 {
+        font-size: 50px;
+    }
+
+    .mainTitlebtnwrap {
+        margin-bottom: 40px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4 {
+        font-size: 38px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Icon {
+        margin-top: 12px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Icon img,
+    .industryExpleftIco img {
+        width: 12px;
+    }
+
+    .OfferserviceWrap:hover .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox:hover .industryExpleft .industryExpleftConten h4 {
+        font-size: 40px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft,
+    .industryExpwrap .industryExpbox .industryExpleft {
+        max-width: 480px;
+        width: 100%;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content {
+        margin-left: 20px;
+        max-width: calc(100% - 32px);
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo {
+        padding: 0 22px;
+    }
+
+    .OfferserviceWrap .OfferserviceRight a,
+    .industryExpwrap .industryExpbox .industryExpright a {
+        width: 52px;
+        height: 52px;
+    }
+
+    .OfferserviceLogo img {
+        max-height: 46px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content p,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten p {
+        font-size: 20px;
+    }
+
+    .OfferserviceWrap:hover {
+        padding: 50px 30px;
+        border-radius: 20px;
+    }
+
+    .OfferserviceWrap,
+    .industryExpwrap .industryExpbox {
+        padding: 24px 0;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 400px;
+    }
+
+    .polishedCols .handImage {
+        width: 560px;
+    }
+
+    .quesoCols img {
+        width: 200px;
+    }
+
+    .quesoCols::before {
+        background-size: auto 100%;
+    }
+
+    .primaryButton {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .primaryButton i {
+        font-size: 130%;
+    }
+
+    .industryExpwrap .industryExpbox:hover {
+        padding: 70px 30px;
+    }
+
+    .industryExpcenter .tilt img {
+        width: 480px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::before,
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::after {
+        width: 140px;
+        height: 140px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::before {
+        top: -50px;
+        left: 50px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter {
+        left: 47%;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten {
+        max-width: calc(100% - 35px);
+        width: 100%;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftIco {
+        margin-right: 20px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::after {
+        bottom: -50px;
+        right: 40px;
+    }
+
+    .growStartWrap .hand {
+        width: 320px;
+    }
+
+    .growStartWrap {
+        padding: 30px 50px;
+    }
+
+    .growStartWrap h2 {
+        font-size: 90px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 155px;
+        gap: 30px;
+    }
+
+    .platformsContent .platformTitle img {
+        max-width: 150px;
+    }
+
+    .ptb {
+        padding: 50px 0;
+    }
+
+    .testimonialSldr .clientReview .clientName {
+        margin-top: 30px;
+    }
+
+    .testimonialSldr .clientReview .clientName h4 {
+        font-size: 26px;
+    }
+
+    .testimonialSldr .clientReview .quoteImage {
+        width: 40px;
+        margin-bottom: 10px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 200px;
+        line-height: 2;
+    }
+
+    .testimonialSldr {
+        padding: 50px 60px 0 60px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox h4 {
+        font-size: 40px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox p {
+        margin-top: 20px;
+    }
+
+    p,
+    .p {
+        font-size: 20px;
+    }
+
+    .awardWrap .awardBox:not(:nth-child(5)) img {
+        max-width: 130px;
+    }
+
+    .awardWrap .awardBox {
+        min-height: 180px;
+        border-radius: 16px;
+    }
+
+    .clientsBox img {
+        width: 130px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks {
+        padding: 50px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinktitle h3 {
+        font-size: 22px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinkB ul li a {
+        font-size: 18px;
+    }
+
+    .addressLinkBox img {
+        max-height: 160px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox p {
+        font-size: 26px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox address {
+        font-size: 18px;
+        margin-bottom: 5px;
+        padding: 15px 0;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox .phoneNo {
+        font-size: 18px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow {
+        padding: 40px 0;
+    }
+
+    .copyrightText p {
+        font-size: 16px;
+    }
+
+    .dmcawrap img {
+        width: 170px;
+    }
+
+    .footerSitesection {
+        padding-top: 45px;
+    }
+
+    .workWrapsecCols+.workWrapsecCols {
+        margin-top: 40px;
+    }
+
+    .whoWearesection .whoWeareWrap h2 {
+        margin-bottom: 50px;
+    }
+
+    .blogRows {
+        gap: 20px;
+    }
+
+    .industryGallary {
+        padding-top: 50px;
+    }
+
+    .industryGallary .topMenus {
+        padding-top: 40px;
+    }
+
+    .industryGallary .bottomMenu {
+        margin-top: 100px;
+    }
+
+    .industryGallary .topMenus .contentBox:nth-child(1) {
+        margin-left: 100px;
+    }
+
+    .industryGallary .topMenus .contentBox:nth-child(2) {
+        margin-left: 120px;
+        margin-bottom: -20px;
+        animation: zoom-in-zoom-out 5s ease-out infinite;
+    }
+
+    .industryGallary .topMenus .contentBox:nth-child(3) {
+        margin-left: 80px;
+    }
+
+    .industryGallary .bottomMenu .contentBox:nth-child(1) .outsideCircle {
+        width: 275px;
+        height: 275px;
+    }
+
+    .industryGallary .bottomMenu .contentBox .circleBox .outsideCircle::before {
+        width: 265px;
+        height: 265px;
+    }
+
+    .contactUsLeft .titleWrap h3 {
+        padding: 0 0 40px;
+        font-size: 48px;
+    }
+
+    .contactUsLeft h4,
+    .contactUsLeft .contatcUslink ul li a {
+        font-size: 20px;
+    }
+
+    .contactUsLeft h4 {
+        margin-bottom: 26px;
+    }
+
+    .contactUsLeft .socialMediawrap {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+
+    h2,
+    .h2 {
+        font-size: 54px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 46px;
+    }
+
+    p,
+    .p {
+        font-size: 18px;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    .navigationWrap .navigationlist>li {
+        font-size: 16px;
+    }
+
+    .navigationWrap .navigationlist {
+        column-gap: 15px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 115px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 60px;
+    }
+
+    .heroBannersection {
+        padding: 50px 0 90px;
+    }
+
+    .smborderTitle {
+        font-size: 20px;
+        padding: 7px 25px 7px 0;
+    }
+
+    .counterCard h3 {
+        font-size: 60px;
+    }
+
+    .whoWeareWrap .whoWeareCols .content p:first-child::before {
+        width: 60px;
+        height: 48px;
+        left: -30px;
+        top: -20px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4 {
+        font-size: 34px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Icon img,
+    .industryExpleftIco img {
+        width: 10px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft,
+    .industryExpwrap .industryExpbox .industryExpleft {
+        max-width: 100%;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content {
+        width: 100%;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content p,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten p {
+        max-width: 100%;
+    }
+
+    .OfferserviceWrap:hover .OfferserviceLogoWrap {
+        margin-top: 40px;
+    }
+
+    .polishedCols .textWhite {
+        left: 20px;
+        top: 20px;
+        width: 200px;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 340px;
+    }
+
+    .polishedCols .handImage {
+        width: 400px;
+    }
+
+    .quesoCols img {
+        width: 160px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter {
+        position: relative;
+        top: auto;
+        left: auto;
+        transform: translate(0);
+        width: 100%;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::before,
+    .industryExpwrap .industryExpbox .industryExpcenter .cardImage::after {
+        display: none;
+    }
+
+    .industryExpwrap .industryExpbox:hover {
+        padding: 50px 30px;
+    }
+
+    .growStartWrap h2 {
+        font-size: 72px;
+    }
+
+    .growStartWrap .hand {
+        width: 290px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 130px;
+    }
+
+    .platformsContent .platformTitle img {
+        max-width: 130px;
+    }
+
+    .testimonialSldr .client-image {
+        max-width: 310px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 180px;
+        line-height: 2.3;
+    }
+
+    .testimonialSldr .clientReview p {
+        font-size: 20px;
+    }
+
+    .testimonialSldr .clientReview .clientName h4 {
+        font-size: 24px;
+        margin-bottom: 6px;
+    }
+
+    .testimonialSldr .clientReview .clientName span {
+        font-size: 16px;
+    }
+
+    .testimonialSldr .clientReview .clientName {
+        margin-top: 20px;
+    }
+
+    .testimonialSldr .clientReview .quoteImage {
+        width: 36px;
+    }
+
+    .testimonialSldrwrap .swiper-pagination {
+        margin-top: 14px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox h4 {
+        font-size: 34px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox {
+        padding: 30px 20px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox p {
+        margin-top: 16px;
+    }
+
+    .awardWrap {
+        gap: 16px;
+    }
+
+    .awardWrap .awardBox:not(:nth-child(5)) img {
+        max-width: 100px;
+    }
+
+    .awardWrap .awardBox {
+        min-height: auto;
+    }
+
+    .awardWrap .awardBox:nth-child(5) img {
+        max-width: 250px;
+    }
+
+    .clientsBox img {
+        width: 110px;
+    }
+
+    .blogRows .blogCols .blogBox {
+        border-radius: 11px;
+        padding: 12px 12px 20px;
+    }
+
+    .blogRows {
+        gap: 14px;
+    }
+
+    .blogRows .blogCols .blogBox .blogBody h3 {
+        font-size: 16px;
+    }
+
+    .blogRows .blogCols .blogBox .blogBody button {
+        width: 36px;
+        height: 36px;
+        font-size: 12px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox p {
+        font-size: 24px;
+    }
+
+    .addressLinkBox img {
+        max-height: 140px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox address,
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox .phoneNo {
+        font-size: 16px;
+    }
+
+    .dmcawrap img {
+        width: 150px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks {
+        padding: 40px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinktitle h3 {
+        font-size: 20px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinkB ul li a {
+        line-height: 2;
+    }
+
+    .snarkCols .mobileApp {
+        width: 450px;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .outsideCircle::before,
+    .industryGallary .topMenus .contentBox .circleBox .outsideCircle,
+    .industryGallary .topMenus .contentBox .circleBox .outsideCircle:after,
+    .industryGallary .bottomMenu .contentBox .outsideCircle {
+        display: none;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .logo,
+    .industryGallary .topMenus .contentBox:nth-child(2) .circleBox .contentText,
+    .industryGallary .topMenus .contentBox .circleBox .contentText,
+    .industryGallary .bottomMenu .contentBox .circleBox .logo {
+        position: static;
+        transform: none;
+    }
+
+    .industryGallary .topMenus .contentBox:nth-child(2),
+    .industryGallary .topMenus .contentBox:nth-child(3),
+    .industryGallary .topMenus .contentBox:nth-child(1),
+    .industryGallary .bottomMenu,
+    .industryGallary .bottomMenu .contentBox:nth-child(3),
+    .industryGallary .bottomMenu .contentBox:nth-child(2) .circleBox {
+        margin: 0;
+    }
+
+    .industryGallary .topMenus {
+        padding: 0;
+    }
+
+    .industryGallary {
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+
+    .industryGallary .bottomMenu .contentBox .circleBox .contentText,
+    .industryGallary .topMenus .contentBox .circleBox .contentText {
+        position: static;
+        text-align: center;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .contentText span,
+    .industryGallary .bottomMenu .contentBox .circleBox .contentText span {
+        font-size: 20px;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .logo,
+    .industryGallary .bottomMenu .contentBox .circleBox .logo {
+        min-width: 100px;
+        min-height: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .logo img,
+    .industryGallary .bottomMenu .contentBox .circleBox .logo img {
+        width: 60px;
+    }
+
+    .industryGallary>* {
+        width: calc(50% - 30px);
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter {
+        margin: 20px 0;
+    }
+
+    .contactUswrap .contactUsLeftWrap {
+        max-width: 400px;
+    }
+
+    .contactUsLeft .titleWrap h3 {
+        font-size: 38px;
+        line-height: 1.3;
+        padding-bottom: 30px;
+    }
+
+    .contactUsLeft .contatcUslink ul {
+        column-count: 1;
+    }
+
+    .contactUsLeft .contatcUslink ul li a i {
+        font-size: 100%;
+    }
+
+    .contactUsLeft .socialMediawrap ul {
+        gap: 20px;
+    }
+
+    .contactUswrap .contactUsRightWrap {
+        max-width: calc(100% - 430px);
+        padding: 40px 40px 60px 40px;
+    }
+
+    .contactUsLeft .contatcUslink ul li+li {
+        margin-top: 20px;
+    }
+
+    .contactUswrap .contactUsRightWrap .titlewrap h3 {
+        font-size: 28px;
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width:991px) {
+
+    h2,
+    .h2 {
+        font-size: 50px;
+    }
+
+    .container {
+        max-width: 720px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 56px;
+        margin-bottom: 30px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 88px;
+    }
+
+    header.header {
+        padding: 20px 0;
+    }
+
+    .whoWearesection .whoWeareWrap .whoWeareRow {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 40px;
+    }
+
+    .awardWrap .awardBox:nth-child(5) {
+        grid-row: 3;
+        grid-column: 1 /5;
+    }
+
+    .awardWrap {
+        grid-template-columns: repeat(4, auto);
+    }
+
+    .expandButton {
+        width: 40px;
+        height: 40px;
+    }
+
+    .polishedCols .textWhite {
+        width: 180px;
+    }
+
+    .polishedCols .handImage {
+        width: 250px;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 300px;
+    }
+
+    .growStartWrap h2 {
+        font-size: 50px;
+    }
+
+    .growStartWrap {
+        padding: 26px 30px;
+        border-radius: 20px;
+    }
+
+    .growStartWrap .hand {
+        width: 260px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 90px;
+        gap: 20px;
+    }
+
+    .platformsContent .platformTitle img {
+        max-width: 90px;
+    }
+
+    .testimonialSldr .clientReview {
+        max-width: calc(100% - 263px);
+        margin-bottom: 20px;
+    }
+
+    .testimonialSldr .client-image {
+        max-width: 240px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 140px;
+    }
+
+    .testimonialSldr .clientReview p {
+        font-size: 18px;
+    }
+
+    .testimonialSldr {
+        padding: 30px 40px 0 40px;
+    }
+
+    .testimonialSldr .clientReview .clientName h4 {
+        font-size: 22px;
+    }
+
+    .testimonialSldr .clientReview .clientName {
+        margin-top: 16px;
+    }
+
+    .cardTitleRow {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox {
+        border-radius: 14px;
+        padding: 30px 30px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox h4 {
+        font-size: 30px;
+        max-width: 100%;
+    }
+
+    .blogRows {
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 20px;
+    }
+
+    .footerLinkcols {
+        width: 50%;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks {
+        row-gap: 30px;
+        padding: 30px;
+        border-radius: 10px;
+    }
+
+    .ptb {
+        padding: 40px 0;
+    }
+
+    .addressLinkBox img {
+        max-height: 110px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox p {
+        font-size: 22px;
+        gap: 10px;
+        padding-top: 20px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow {
+        gap: 20px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox address {
+        padding: 10px 0;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinktitle h3 {
+        padding-bottom: 14px;
+    }
+
+    .footerSitesection .footerSitewrap .copyrightWrap div {
+        width: 100%;
+    }
+
+    .footerSitesection .footerSitewrap .copyrightWrap {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .copyrightText {
+        order: 1;
+        margin-top: 10px;
+    }
+
+    .copyrightText p {
+        font-size: 14px;
+    }
+
+    .dmcawrap img {
+        width: 130px;
+    }
+
+    .testimonialSldr .clientReview {
+        margin-bottom: 12px;
+    }
+
+    .OfferserviceTWrap .headerTab,
+    .industryExpTbox .headerTab {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        width: 100%;
+        padding: 15px 20px;
+        background-color: #2c2c2c;
+        border-radius: 6px;
+    }
+
+    .OfferserviceTWrap .headerTab img,
+    .industryExpTbox .headerTab img {
+        width: 10px;
+    }
+
+    .OfferserviceTWrap .headerTab h4,
+    .industryExpTbox .headerTab h4 {
+        font-family: 'Public Sans Regular';
+        font-weight: 100;
+        margin-left: 15px;
+        margin-right: auto;
+        font-size: 24px;
+        line-height: 1.2;
+        color: #969696;
+    }
+
+    .OfferserviceTWrap .headerTab i,
+    .industryExpTbox .headerTab i {
+        font-size: 8px;
+        opacity: 0.6;
+    }
+
+    .whatOfferssection .OfferserviceWrap,
+    .industryExpTbox .industryExpbox {
+        display: none;
+        border: 0;
+        padding-bottom: 10px;
+        padding-left: 45px;
+    }
+
+    .OfferserviceTWrap+.OfferserviceTWrap,
+    .industryExpTbox+.industryExpTbox {
+        margin-top: 20px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content p,
+    .OfferserviceWrap .OfferserviceRight {
+        display: block;
+        margin: 0;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content p,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten p {
+        font-size: 18px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4,
+    .OfferserviceWrap .OfferserviceLeft .Icon {
+        display: none;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content {
+        margin: 0;
+        max-width: 100%;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap {
+        display: flex;
+        align-items: stretch;
+        margin: 20px 0;
+        gap: 15px;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo {
+        background-color: #2c2c2c;
+        border-radius: 10px;
+        padding: 10px 20px;
+    }
+
+    .OfferserviceLogo img {
+        max-height: 38px;
+    }
+
+    .OfferserviceWrap .OfferserviceRight a,
+    .industryExpwrap .industryExpbox .industryExpright a {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo span {
+        margin-top: 10px;
+    }
+
+    .OfferserviceTWrap.toggle .tabHtop i {
+        transform: scale(-1);
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo span {
+        font-size: 14px;
+    }
+
+    .industryExpwrap .industryExpbox:hover {
+        padding: 24px 0;
+        padding-bottom: 10px;
+        background-color: transparent;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftIco {
+        display: none;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten p,
+    .industryExpwrap .industryExpbox .industryExpright {
+        display: block;
+        margin: 0;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten {
+        max-width: 100%;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpcenter {
+        margin: 20px 0;
+    }
+
+    .whatOfferssection .OfferserviceWrap,
+    .industryExpTbox .industryExpbox {
+        padding-left: 0;
+    }
+
+    .navigationSection {
+        position: absolute;
+        left: 0;
+        right: 0;
+        width: 100%;
+        top: 100%;
+        background-color: #000000;
+        padding: 0 0 20px;
+        min-height: calc(100vh - 79px);
+        overflow: auto;
+        max-height: calc(100vh - 79px);
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(30px);
+        transition: 0.3s all ease-in-out;
+    }
+
+    .navigationWrap .navigationlist>li .submenu {
+        display: none;
+    }
+
+    .navigationWrap .navigationlist>li {
+        width: calc(100% - 40px);
+        margin: 0 auto;
+    }
+
+    .navigationWrap .navigationlist>li .firstmenu {
+        width: 100%;
+        padding: 14px 0;
+        position: relative;
+    }
+
+    .navigationWrap .navigationlist>li {
+        border-top: 1px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .header .hcontainer .headerWrap .headerLogo,
+    .header .hcontainer .headerWrap .headerLogo img {
+        width: 150px;
+    }
+
+    .navigationWrap .navigationlist>li:last-child {
+        border-top: 0;
+    }
+
+    .navigationWrap .navigationlist>li .firstmenu .submenuToggle {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 0;
+        display: block;
+    }
+
+    .navigationWrap .navigationlist>li .firstmenu .submenuToggle::before,
+    .navigationWrap .navigationlist>li .firstmenu .submenuToggle::after {
+        content: '';
+        position: absolute;
+        background-color: #ffffff;
+        transition: 0.3s all ease-in-out;
+    }
+
+    .navigationWrap .navigationlist>li .firstmenu .submenuToggle::before {
+        width: 22px;
+        height: 1px;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+
+    .navigationWrap .navigationlist>li .firstmenu .submenuToggle::after {
+        height: 22px;
+        width: 1px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .navigationWrap .navigationlist>li .submenu,
+    .navigationWrap .navigationlist>li:hover .submenu {
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        position: relative;
+        border-radius: 0;
+        min-width: auto;
+        margin-bottom: 15px;
+    }
+
+    .navigationWrap .navigationlist>li:nth-child(n + 5) .submenu,
+    .navigationWrap .navigationlist>li:nth-child(n + 5):hover .submenu {
+        transform: none;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .menuCol p {
+        display: none;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .menuCol {
+        width: 100%;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead {
+        gap: 15px;
+        padding: 18px;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .menuCol a {
+        font-size: 16px;
+        font-family: 'Public Sans Regular';
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuFoot {
+        display: none;
+    }
+
+    .navigationWrap .navigationlist>li.toggledSubmenu .firstmenu .submenuToggle::after {
+        transform: rotate(90deg) translate(0%, 0%);
+        top: 20%;
+    }
+
+    .navigationWrap .navigationlist>li.toggledSubmenu .firstmenu .submenuToggle::before {
+        opacity: 0;
+        transform: rotate(90deg) translate(0%, 0%);
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead {
+        padding: 15px;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .listMenulist .listMenuli a {
+        font-size: 16px;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .listMenulist {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .listMenulist .titleMh:empty {
+        display: none;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .listMenulist .titleMh {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .navigationWrap .navigationlist>li .submenu .submenuHead .listMenulist+.listMenulist {
+        margin-top: 0;
+    }
+
+    .submenu.serviceSubmenu .submenuHead .listMenulist:first-child>div:last-child .titleMh {
+        display: none;
+    }
+
+    .industryGallary>* {
+        width: calc(50% - 10px);
+    }
+
+    .OfferserviceWrap:hover {
+        padding: 24px 0 10px;
+        background-color: transparent;
+    }
+
+    .OfferserviceWrap:hover .OfferserviceLogoWrap {
+        margin-top: 20px;
+    }
+
+    .contactUswrap .contactUsLeftWrap {
+        max-width: 100%;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .contactUswrap .contactUsRightWrap {
+        max-width: 100%;
+    }
+
+    .contactUsLeft .contatcUslink ul {
+        column-count: 2;
+    }
+
+    .contactUsLeft h4,
+    .contactUsLeft .contatcUslink ul li a {
+        font-size: 18px;
+    }
+
+    .contactUsLeft h4 {
+        margin-bottom: 20px;
+    }
+
+    .contactUsLeft .socialMediawrap ul li a {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+        line-height: 1;
+    }
+
+    .contactUsLeft .socialMediawrap ul {
+        gap: 16px;
+    }
+
+    .contactUsLeft .titleWrap h3 {
+        padding-bottom: 26px;
+    }
+
+    .contactUsLeft .socialMediawrap {
+        margin-top: 20px;
+    }
+
+    .contactUswrap .contactUsRightWrap .titlewrap h3 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+
+    .contactUswrap .contactUsRightWrap {
+        padding: 40px 30px;
+    }
+
+    .footerSitesection {
+        padding-top: 0;
+    }
+
+    .headerWrap .hamburgerMenu {
+        width: 26px;
+        height: 26px;
+        background-color: transparent;
+        border: 0;
+        position: relative;
+        cursor: pointer;
+        display: block;
+    }
+
+    .headerWrap .hamburgerMenu span {
+        position: absolute;
+        height: 2px;
+        width: 100%;
+        right: 0;
+        background-color: #ff174f;
+        transition: 0.3s all ease-in-out;
+    }
+
+    .headerWrap .hamburgerMenu span:first-child {
+        top: 4px;
+    }
+
+    .headerWrap .hamburgerMenu span:last-child {
+        bottom: 4px;
+    }
+
+    .headerWrap .hamburgerMenu span:nth-child(2) {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .headerWrap .hamburgerMenu.toggled span:first-child {
+        transform: rotate(-45deg);
+        top: 12px;
+    }
+
+    .headerWrap .hamburgerMenu.toggled span:last-child {
+        transform: rotate(45deg);
+        bottom: 11px;
+    }
+
+    .headerWrap .hamburgerMenu.toggled span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .togglingMenu .navigationSection {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .container {
+        max-width: 540px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 64px;
+        line-height: 1;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 48px;
+        line-height: 1.2;
+    }
+
+    h2,
+    .h2 {
+        font-size: 44px;
+    }
+
+    .whoWearesection .whoWeareWrap h2 {
+        margin-bottom: 34px;
+    }
+
+    .counterCard h3 {
+        font-size: 54px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 38px;
+    }
+
+    .smborderTitle {
+        font-size: 18px;
+    }
+
+    .mainTitlebtnwrap {
+        margin-bottom: 20px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4 {
+        font-size: 30px;
+    }
+
+    .workWrapsecWrap .workWrapsecCols .workWrapsecBox img.desktop {
+        display: none;
+    }
+
+    .workWrapsecWrap .workWrapsecCols .workWrapsecBox img.mobile {
+        display: block;
+    }
+
+    .workWrapsecRows {
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+
+    .workWrapsecRows .workWrapsecBox.workWrapsecLeft,
+    .workWrapsecRows .workWrapsecBox.workWrapsecRight,
+    .workWrapsecRows .workWrapsecBox.workWrapsecRight:hover {
+        max-width: 100%;
+    }
+
+    .workWrapsecRows .workWrapsecBox.workWrapsecRight {
+        align-items: flex-end;
+    }
+
+    .polishedCols .handImage {
+        width: 260px;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 344px;
+    }
+
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftIco {
+        margin-top: 8px;
+    }
+
+    .growStartWrap h2 span {
+        display: inline-block;
+    }
+
+    .growStartWrap {
+        padding-bottom: 300px;
+    }
+
+    .growStartWrap .hand {
+        width: 300px;
+        top: 60%;
+    }
+
+    .growStartWrap .expandButton {
+        position: absolute;
+        bottom: 30px;
+        left: 26px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 70px;
+    }
+
+    .platformsContent .platformTitle img {
+        max-width: 78px;
+    }
+
+    .platformsContent .platformTitle:nth-child(2) {
+        margin: 8px 0 8px auto;
+    }
+
+    .testimonialSldr .client-image {
+        order: 1;
+        margin: 0 auto;
+    }
+
+    .testimonialSldr .clientReview {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .awardWrap {
+        grid-template-columns: repeat(2, auto);
+    }
+
+    .awardWrap .awardBox:nth-child(5) {
+        grid-row: 3;
+        grid-column: 1 /3;
+    }
+
+    .clientsWrap {
+        grid-template-columns: repeat(3, auto);
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks {
+        padding: 20px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinkB ul li a {
+        font-size: 16px;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .addressLinkBox {
+        border-radius: 15px;
+        padding: 20px 20px;
+        background-color: #161616;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox address {
+        max-width: 100%;
+    }
+
+    .footerSitesection .footerSitewrap .addressLinks .addressLinkRow .addressLinkBox p {
+        font-size: 20px;
+    }
+
+    .addressLinkBox img {
+        max-height: 140px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 96px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox h4 {
+        font-size: 26px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox {
+        padding: 20px;
+    }
+
+    .industryGallary>* {
+        width: 100%;
+    }
+
+    .industryGallary {
+        gap: 30px;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .contentText span,
+    .industryGallary .bottomMenu .contentBox .circleBox .contentText span {
+        font-size: 18px;
+    }
+
+    .OfferserviceTWrap .headerTab h4,
+    .industryExpTbox .headerTab h4 {
+        font-size: 22px;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo {
+        padding: 14px 20px;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .container {
+        max-width: 100%;
+        padding: 0 15px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 33px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 28px;
+    }
+
+    p,
+    .p {
+        font-size: 16px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 50px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 38px;
+    }
+
+    .heroBannersection {
+        padding: 30px 0 70px;
+    }
+
+    .counterCard h3 {
+        font-size: 44px;
+    }
+
+    .whoWearesection .whoWeareWrap .whoWeareRow .whoWeareCols .counterBoxWrap .counterBoxRow {
+        gap: 25px 25px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4 {
+        font-size: 26px;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 270px;
+    }
+
+    .snarkCols .mobileApp {
+        width: 340px;
+        right: 10px;
+    }
+
+    .growStartWrap h2 {
+        font-size: 38px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 48px;
+    }
+
+    .platformsContent .platformTitle img {
+        max-width: 64px;
+    }
+
+    .testimonialSldr {
+        padding: 30px 20px 0 20px;
+    }
+
+    .testimonialSldr .clientReview p {
+        font-size: 16px;
+    }
+
+    .testimonialSldr .clientReview .clientName h4 {
+        font-size: 20px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 70px;
+        bottom: 90px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox h4 {
+        font-size: 24px;
+    }
+
+    .cardTitleRow .cardTitleCols .cardTitleBox p {
+        margin-top: 12px;
+    }
+
+    .mainTitlebtnwrap .headMt {
+        margin-bottom: 7px;
+    }
+
+    .clientsBox img {
+        width: 90px;
+    }
+
+    .blogRows {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .footerLinkcols {
+        width: 100%;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks {
+        padding: 30px 20px;
+    }
+
+    .footerSitesection .footerSitewrap .companyLinks .footerLinkcols .footerLinkB ul li a {
+        display: inline-block;
+    }
+
+    .whatOfferssection .mainTitlebtnwrap,
+    .outWorksection .mainTitlebtnwrap,
+    .industryExpsection .mainTitlebtnwrap {
+        padding-bottom: 60px;
+        position: relative;
+    }
+
+    .whatOfferssection .mainTitlebtnwrap .primaryButton,
+    .outWorksection .mainTitlebtnwrap .primaryButton,
+    .industryExpsection .mainTitlebtnwrap .primaryButton {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .logo,
+    .industryGallary .bottomMenu .contentBox .circleBox .logo {
+        min-width: 70px;
+        min-height: 70px;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .logo img,
+    .industryGallary .bottomMenu .contentBox .circleBox .logo img {
+        width: 46px;
+    }
+
+    .industryGallary .topMenus .contentBox .circleBox .contentText span,
+    .industryGallary .bottomMenu .contentBox .circleBox .contentText span {
+        font-size: 16px;
+    }
+
+    .OfferserviceTWrap .headerTab h4,
+    .industryExpTbox .headerTab h4 {
+        font-size: 20px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content p,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten p {
+        font-size: 16px;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo {
+        padding: 16px 16px;
+        width: 35%;
+        text-align: center;
+    }
+
+    .OfferserviceLogo img {
+        max-height: 32px;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap .OfferserviceLogo span {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+
+    .OfferserviceWrap .OfferserviceLogoWrap {
+        justify-content: center;
+    }
+
+    .contactUsRightWrap form .formRow .formColhalf {
+        width: 100%;
+    }
+
+    .contactUswrap .contactUsRightWrap .titlewrap h3 {
+        font-size: 22px;
+    }
+
+    .contactUsLeft .contatcUslink ul li a {
+        column-gap: 12px;
+    }
+
+    .contactUsLeft .titleWrap h3 {
+        font-size: 32px;
+    }
+
+    .contactUsLeft .socialMediawrap ul {
+        gap: 12px;
+    }
+
+    .contactUsLeft .socialMediawrap ul li a {
+        width: 38px;
+        height: 38px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .heroBannersection .heroBannerwrap h1 b {
+        font-size: 36px;
+    }
+
+    .heroBannersection .heroBannerwrap h1 {
+        font-size: 26px;
+        line-height: 1.4;
+    }
+
+    h2,
+    .h2 {
+        font-size: 24px;
+    }
+
+    .whoWearesection .whoWeareWrap h2 {
+        margin-bottom: 20px;
+    }
+
+    .counterCard h3 {
+        font-size: 38px;
+    }
+
+    .whoWearesection .whoWeareWrap .whoWeareRow .whoWeareCols .counterBoxWrap .counterBoxRow {
+        gap: 20px 20px;
+    }
+
+    .counterCard p {
+        font-size: 16px;
+    }
+
+    .whoWearesection .whoWeareWrap .whoWeareRow {
+        gap: 20px;
+    }
+
+    .whoWeareWrap .whoWeareCols .content p:first-child::before {
+        width: 40px;
+        left: -10px;
+        top: -10px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 22px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Content h4,
+    .industryExpwrap .industryExpbox .industryExpleft .industryExpleftConten h4 {
+        font-size: 22px;
+    }
+
+    .OfferserviceWrap .OfferserviceLeft .Icon {
+        margin-top: 7px;
+    }
+
+    .workWrapsecRows .workWrapsecBox {
+        min-height: 196px;
+    }
+
+    .workWrapsecBox .expandButton {
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+        border: 0;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-color: transparent;
+    }
+
+    .workWrapsecBox .expandButton span,
+    .workWrapsecBox .expandButton i {
+        display: none;
+    }
+
+    .workWrapsecCols+.workWrapsecCols {
+        margin-top: 30px;
+    }
+
+    .workWrapsecRows {
+        gap: 30px;
+    }
+
+    .polishedCols .handImage {
+        width: 200px;
+    }
+
+    .snarkCols .mobileApp {
+        width: 280px;
+        bottom: -100px;
+    }
+
+    .quesoCols img {
+        width: 120px;
+    }
+
+    .growStartWrap h2 {
+        font-size: 28px;
+    }
+
+    .growStartWrap {
+        padding: 20px 20px;
+        padding-bottom: 300px;
+    }
+
+    .growStartWrap .hand {
+        width: 260px;
+    }
+
+    .platformsContent .platformTitle {
+        font-size: 38px;
+        -webkit-text-stroke-width: 1px;
+    }
+
+    .platformsContent .platformTitle img {
+        max-width: 58px;
+    }
+
+    .testimonialSldr .client-image img {
+        width: 200px;
+    }
+
+    .testimonialSldr span.clientName {
+        font-size: 52px;
+    }
+
+    .clientsBox img {
+        width: 70px;
+    }
+
+    .ptb {
+        padding: 30px 0;
+    }
+
+    .copyrightText p {
+        font-size: 12px;
+    }
+
+    .footerSitesection .footerSitewrap .copyrightWrap {
+        padding: 14px 0;
+    }
+
+    .dmcawrap img {
+        width: 120px;
+    }
+
+    .testimonialSldr {
+        padding: 30px 10px 0 10px;
+    }
+
+    .OfferserviceTWrap .headerTab h4,
+    .industryExpTbox .headerTab h4 {
+        font-size: 18px;
+    }
+
+    .contactUsLeft .contatcUslink ul {
+        column-count: 1;
+    }
+
+    .contactUsLeft .titleWrap h3 {
+        font-size: 30px;
+    }
+
+    .header .hcontainer .headerWrap .headerLogo,
+    .header .hcontainer .headerWrap .headerLogo img {
+        width: 130px;
+    }
+}
